@@ -14,6 +14,8 @@ This is a simple webserver using golang in which users can fill out a form to in
 - "/form" & "/form.html"
 
 3.
-"http://localhost:8080/" -> index.html,
-"http://localhost:8080/hello" -> hello func, 
-"http://localhost:8080/form" -> form func -> form.html;
+"http://localhost:8080/" -> index.html
+
+"http://localhost:8080/hello" -> hello func
+
+"http://localhost:8080/form" -> form func -> form.html
